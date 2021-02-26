@@ -1,0 +1,1 @@
+psql -U martinx0520 Valorant10manStats < db.sql
